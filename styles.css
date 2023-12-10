@@ -269,3 +269,17 @@ body {
   color: var(--secondary-text-color);
 }
 
+/* My hobbies block */
+
+.my-hobbies__header {
+  color: var(--secondary-text-color);
+  text-align: center;
+  margin-bottom: 20px;
+}
+.my-hobbies__list {
+  display: flex;
+  justify-items: center;
+  gap: 20px;
+}
+
+
